@@ -15,7 +15,7 @@ if str(APP_DIR) not in sys.path:
 
 import ml_utils
 
-DATA_DIR = APP_DIR / "data"
+DATA_DIR = APP_DIR
 
 st.set_page_config(page_title="SupplyWise AI", page_icon="📦", layout="wide")
 
@@ -25,7 +25,7 @@ st.info("Demo project: sample data is synthetic. Purchase orders are simulated o
 
 @st.cache_data
 def load_data():
-    sales = pd.read_csv(DATA_DIR / "sales_history.csv", parse_dates=["date"])
+    sales = pd.read_csv(DATA_DIR / "sales history.csv", parse_dates=["date"])
     inventory = pd.read_csv(DATA_DIR / "inventory.csv")
     suppliers = pd.read_csv(DATA_DIR / "suppliers.csv")
     return sales, inventory, suppliers
