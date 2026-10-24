@@ -1,0 +1,6 @@
+product_id,product_name,stock_on_hand,lead_time_days,unit_cost,supplier_category,target_cover_days,safety_stock_days
+P001,Cardboard Boxes,420,5,18.0,Packaging,21,3
+P002,Reusable Water Bottles,180,8,95.0,Finished Goods,21,3
+P003,Shipping Labels,260,3,2.5,Packaging,21,3
+P004,Protective Paper Fill,125,6,12.0,Packaging,21,3
+P005,Cotton Tote Bags,90,10,65.0,Finished Goods,21,3

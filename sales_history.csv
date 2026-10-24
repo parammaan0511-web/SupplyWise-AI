@@ -1,0 +1,451 @@
+date,product_id,product_name,units_sold
+2026-07-26,P001,Cardboard Boxes,22
+2026-07-27,P001,Cardboard Boxes,49
+2026-07-28,P001,Cardboard Boxes,50
+2026-07-29,P001,Cardboard Boxes,30
+2026-07-30,P001,Cardboard Boxes,35
+2026-07-31,P001,Cardboard Boxes,45
+2026-08-01,P001,Cardboard Boxes,25
+2026-08-02,P001,Cardboard Boxes,27
+2026-08-03,P001,Cardboard Boxes,38
+2026-08-04,P001,Cardboard Boxes,50
+2026-08-05,P001,Cardboard Boxes,50
+2026-08-06,P001,Cardboard Boxes,45
+2026-08-07,P001,Cardboard Boxes,52
+2026-08-08,P001,Cardboard Boxes,29
+2026-08-09,P001,Cardboard Boxes,23
+2026-08-10,P001,Cardboard Boxes,47
+2026-08-11,P001,Cardboard Boxes,38
+2026-08-12,P001,Cardboard Boxes,51
+2026-08-13,P001,Cardboard Boxes,44
+2026-08-14,P001,Cardboard Boxes,43
+2026-08-15,P001,Cardboard Boxes,24
+2026-08-16,P001,Cardboard Boxes,33
+2026-08-17,P001,Cardboard Boxes,44
+2026-08-18,P001,Cardboard Boxes,42
+2026-08-19,P001,Cardboard Boxes,42
+2026-08-20,P001,Cardboard Boxes,49
+2026-08-21,P001,Cardboard Boxes,48
+2026-08-22,P001,Cardboard Boxes,29
+2026-08-23,P001,Cardboard Boxes,29
+2026-08-24,P001,Cardboard Boxes,60
+2026-08-25,P001,Cardboard Boxes,42
+2026-08-26,P001,Cardboard Boxes,41
+2026-08-27,P001,Cardboard Boxes,39
+2026-08-28,P001,Cardboard Boxes,50
+2026-08-29,P001,Cardboard Boxes,33
+2026-08-30,P001,Cardboard Boxes,27
+2026-08-31,P001,Cardboard Boxes,39
+2026-09-01,P001,Cardboard Boxes,39
+2026-09-02,P001,Cardboard Boxes,50
+2026-09-03,P001,Cardboard Boxes,51
+2026-09-04,P001,Cardboard Boxes,50
+2026-09-05,P001,Cardboard Boxes,25
+2026-09-06,P001,Cardboard Boxes,29
+2026-09-07,P001,Cardboard Boxes,47
+2026-09-08,P001,Cardboard Boxes,47
+2026-09-09,P001,Cardboard Boxes,52
+2026-09-10,P001,Cardboard Boxes,47
+2026-09-11,P001,Cardboard Boxes,51
+2026-09-12,P001,Cardboard Boxes,28
+2026-09-13,P001,Cardboard Boxes,29
+2026-09-14,P001,Cardboard Boxes,51
+2026-09-15,P001,Cardboard Boxes,35
+2026-09-16,P001,Cardboard Boxes,44
+2026-09-17,P001,Cardboard Boxes,43
+2026-09-18,P001,Cardboard Boxes,41
+2026-09-19,P001,Cardboard Boxes,27
+2026-09-20,P001,Cardboard Boxes,35
+2026-09-21,P001,Cardboard Boxes,40
+2026-09-22,P001,Cardboard Boxes,54
+2026-09-23,P001,Cardboard Boxes,34
+2026-09-24,P001,Cardboard Boxes,44
+2026-09-25,P001,Cardboard Boxes,48
+2026-09-26,P001,Cardboard Boxes,31
+2026-09-27,P001,Cardboard Boxes,32
+2026-09-28,P001,Cardboard Boxes,53
+2026-09-29,P001,Cardboard Boxes,44
+2026-09-30,P001,Cardboard Boxes,43
+2026-10-01,P001,Cardboard Boxes,53
+2026-10-02,P001,Cardboard Boxes,45
+2026-10-03,P001,Cardboard Boxes,23
+2026-10-04,P001,Cardboard Boxes,23
+2026-10-05,P001,Cardboard Boxes,40
+2026-10-06,P001,Cardboard Boxes,51
+2026-10-07,P001,Cardboard Boxes,48
+2026-10-08,P001,Cardboard Boxes,52
+2026-10-09,P001,Cardboard Boxes,44
+2026-10-10,P001,Cardboard Boxes,29
+2026-10-11,P001,Cardboard Boxes,32
+2026-10-12,P001,Cardboard Boxes,45
+2026-10-13,P001,Cardboard Boxes,51
+2026-10-14,P001,Cardboard Boxes,42
+2026-10-15,P001,Cardboard Boxes,45
+2026-10-16,P001,Cardboard Boxes,45
+2026-10-17,P001,Cardboard Boxes,23
+2026-10-18,P001,Cardboard Boxes,31
+2026-10-19,P001,Cardboard Boxes,44
+2026-10-20,P001,Cardboard Boxes,48
+2026-10-21,P001,Cardboard Boxes,51
+2026-10-22,P001,Cardboard Boxes,51
+2026-10-23,P001,Cardboard Boxes,53
+2026-07-26,P002,Reusable Water Bottles,16
+2026-07-27,P002,Reusable Water Bottles,27
+2026-07-28,P002,Reusable Water Bottles,20
+2026-07-29,P002,Reusable Water Bottles,21
+2026-07-30,P002,Reusable Water Bottles,22
+2026-07-31,P002,Reusable Water Bottles,23
+2026-08-01,P002,Reusable Water Bottles,18
+2026-08-02,P002,Reusable Water Bottles,14
+2026-08-03,P002,Reusable Water Bottles,26
+2026-08-04,P002,Reusable Water Bottles,33
+2026-08-05,P002,Reusable Water Bottles,26
+2026-08-06,P002,Reusable Water Bottles,31
+2026-08-07,P002,Reusable Water Bottles,23
+2026-08-08,P002,Reusable Water Bottles,16
+2026-08-09,P002,Reusable Water Bottles,14
+2026-08-10,P002,Reusable Water Bottles,26
+2026-08-11,P002,Reusable Water Bottles,31
+2026-08-12,P002,Reusable Water Bottles,20
+2026-08-13,P002,Reusable Water Bottles,30
+2026-08-14,P002,Reusable Water Bottles,29
+2026-08-15,P002,Reusable Water Bottles,15
+2026-08-16,P002,Reusable Water Bottles,13
+2026-08-17,P002,Reusable Water Bottles,28
+2026-08-18,P002,Reusable Water Bottles,25
+2026-08-19,P002,Reusable Water Bottles,29
+2026-08-20,P002,Reusable Water Bottles,28
+2026-08-21,P002,Reusable Water Bottles,35
+2026-08-22,P002,Reusable Water Bottles,16
+2026-08-23,P002,Reusable Water Bottles,14
+2026-08-24,P002,Reusable Water Bottles,28
+2026-08-25,P002,Reusable Water Bottles,29
+2026-08-26,P002,Reusable Water Bottles,34
+2026-08-27,P002,Reusable Water Bottles,31
+2026-08-28,P002,Reusable Water Bottles,29
+2026-08-29,P002,Reusable Water Bottles,21
+2026-08-30,P002,Reusable Water Bottles,14
+2026-08-31,P002,Reusable Water Bottles,25
+2026-09-01,P002,Reusable Water Bottles,24
+2026-09-02,P002,Reusable Water Bottles,26
+2026-09-03,P002,Reusable Water Bottles,22
+2026-09-04,P002,Reusable Water Bottles,30
+2026-09-05,P002,Reusable Water Bottles,16
+2026-09-06,P002,Reusable Water Bottles,13
+2026-09-07,P002,Reusable Water Bottles,23
+2026-09-08,P002,Reusable Water Bottles,29
+2026-09-09,P002,Reusable Water Bottles,31
+2026-09-10,P002,Reusable Water Bottles,36
+2026-09-11,P002,Reusable Water Bottles,40
+2026-09-12,P002,Reusable Water Bottles,18
+2026-09-13,P002,Reusable Water Bottles,14
+2026-09-14,P002,Reusable Water Bottles,18
+2026-09-15,P002,Reusable Water Bottles,29
+2026-09-16,P002,Reusable Water Bottles,24
+2026-09-17,P002,Reusable Water Bottles,26
+2026-09-18,P002,Reusable Water Bottles,25
+2026-09-19,P002,Reusable Water Bottles,16
+2026-09-20,P002,Reusable Water Bottles,20
+2026-09-21,P002,Reusable Water Bottles,28
+2026-09-22,P002,Reusable Water Bottles,27
+2026-09-23,P002,Reusable Water Bottles,23
+2026-09-24,P002,Reusable Water Bottles,20
+2026-09-25,P002,Reusable Water Bottles,25
+2026-09-26,P002,Reusable Water Bottles,17
+2026-09-27,P002,Reusable Water Bottles,22
+2026-09-28,P002,Reusable Water Bottles,28
+2026-09-29,P002,Reusable Water Bottles,32
+2026-09-30,P002,Reusable Water Bottles,25
+2026-10-01,P002,Reusable Water Bottles,22
+2026-10-02,P002,Reusable Water Bottles,23
+2026-10-03,P002,Reusable Water Bottles,15
+2026-10-04,P002,Reusable Water Bottles,23
+2026-10-05,P002,Reusable Water Bottles,24
+2026-10-06,P002,Reusable Water Bottles,31
+2026-10-07,P002,Reusable Water Bottles,24
+2026-10-08,P002,Reusable Water Bottles,32
+2026-10-09,P002,Reusable Water Bottles,29
+2026-10-10,P002,Reusable Water Bottles,16
+2026-10-11,P002,Reusable Water Bottles,17
+2026-10-12,P002,Reusable Water Bottles,25
+2026-10-13,P002,Reusable Water Bottles,30
+2026-10-14,P002,Reusable Water Bottles,26
+2026-10-15,P002,Reusable Water Bottles,22
+2026-10-16,P002,Reusable Water Bottles,22
+2026-10-17,P002,Reusable Water Bottles,17
+2026-10-18,P002,Reusable Water Bottles,21
+2026-10-19,P002,Reusable Water Bottles,28
+2026-10-20,P002,Reusable Water Bottles,27
+2026-10-21,P002,Reusable Water Bottles,29
+2026-10-22,P002,Reusable Water Bottles,33
+2026-10-23,P002,Reusable Water Bottles,29
+2026-07-26,P003,Shipping Labels,45
+2026-07-27,P003,Shipping Labels,68
+2026-07-28,P003,Shipping Labels,79
+2026-07-29,P003,Shipping Labels,65
+2026-07-30,P003,Shipping Labels,51
+2026-07-31,P003,Shipping Labels,50
+2026-08-01,P003,Shipping Labels,49
+2026-08-02,P003,Shipping Labels,49
+2026-08-03,P003,Shipping Labels,62
+2026-08-04,P003,Shipping Labels,60
+2026-08-05,P003,Shipping Labels,79
+2026-08-06,P003,Shipping Labels,52
+2026-08-07,P003,Shipping Labels,55
+2026-08-08,P003,Shipping Labels,43
+2026-08-09,P003,Shipping Labels,36
+2026-08-10,P003,Shipping Labels,64
+2026-08-11,P003,Shipping Labels,62
+2026-08-12,P003,Shipping Labels,68
+2026-08-13,P003,Shipping Labels,79
+2026-08-14,P003,Shipping Labels,65
+2026-08-15,P003,Shipping Labels,43
+2026-08-16,P003,Shipping Labels,26
+2026-08-17,P003,Shipping Labels,64
+2026-08-18,P003,Shipping Labels,56
+2026-08-19,P003,Shipping Labels,52
+2026-08-20,P003,Shipping Labels,55
+2026-08-21,P003,Shipping Labels,61
+2026-08-22,P003,Shipping Labels,45
+2026-08-23,P003,Shipping Labels,31
+2026-08-24,P003,Shipping Labels,65
+2026-08-25,P003,Shipping Labels,60
+2026-08-26,P003,Shipping Labels,61
+2026-08-27,P003,Shipping Labels,75
+2026-08-28,P003,Shipping Labels,70
+2026-08-29,P003,Shipping Labels,48
+2026-08-30,P003,Shipping Labels,39
+2026-08-31,P003,Shipping Labels,58
+2026-09-01,P003,Shipping Labels,63
+2026-09-02,P003,Shipping Labels,68
+2026-09-03,P003,Shipping Labels,67
+2026-09-04,P003,Shipping Labels,54
+2026-09-05,P003,Shipping Labels,40
+2026-09-06,P003,Shipping Labels,41
+2026-09-07,P003,Shipping Labels,92
+2026-09-08,P003,Shipping Labels,85
+2026-09-09,P003,Shipping Labels,56
+2026-09-10,P003,Shipping Labels,62
+2026-09-11,P003,Shipping Labels,50
+2026-09-12,P003,Shipping Labels,36
+2026-09-13,P003,Shipping Labels,42
+2026-09-14,P003,Shipping Labels,78
+2026-09-15,P003,Shipping Labels,58
+2026-09-16,P003,Shipping Labels,59
+2026-09-17,P003,Shipping Labels,43
+2026-09-18,P003,Shipping Labels,64
+2026-09-19,P003,Shipping Labels,33
+2026-09-20,P003,Shipping Labels,37
+2026-09-21,P003,Shipping Labels,57
+2026-09-22,P003,Shipping Labels,65
+2026-09-23,P003,Shipping Labels,48
+2026-09-24,P003,Shipping Labels,51
+2026-09-25,P003,Shipping Labels,89
+2026-09-26,P003,Shipping Labels,32
+2026-09-27,P003,Shipping Labels,33
+2026-09-28,P003,Shipping Labels,86
+2026-09-29,P003,Shipping Labels,97
+2026-09-30,P003,Shipping Labels,54
+2026-10-01,P003,Shipping Labels,63
+2026-10-02,P003,Shipping Labels,70
+2026-10-03,P003,Shipping Labels,52
+2026-10-04,P003,Shipping Labels,34
+2026-10-05,P003,Shipping Labels,64
+2026-10-06,P003,Shipping Labels,75
+2026-10-07,P003,Shipping Labels,71
+2026-10-08,P003,Shipping Labels,63
+2026-10-09,P003,Shipping Labels,65
+2026-10-10,P003,Shipping Labels,32
+2026-10-11,P003,Shipping Labels,39
+2026-10-12,P003,Shipping Labels,64
+2026-10-13,P003,Shipping Labels,70
+2026-10-14,P003,Shipping Labels,61
+2026-10-15,P003,Shipping Labels,72
+2026-10-16,P003,Shipping Labels,78
+2026-10-17,P003,Shipping Labels,42
+2026-10-18,P003,Shipping Labels,43
+2026-10-19,P003,Shipping Labels,68
+2026-10-20,P003,Shipping Labels,67
+2026-10-21,P003,Shipping Labels,60
+2026-10-22,P003,Shipping Labels,71
+2026-10-23,P003,Shipping Labels,67
+2026-07-26,P004,Protective Paper Fill,26
+2026-07-27,P004,Protective Paper Fill,37
+2026-07-28,P004,Protective Paper Fill,30
+2026-07-29,P004,Protective Paper Fill,28
+2026-07-30,P004,Protective Paper Fill,41
+2026-07-31,P004,Protective Paper Fill,36
+2026-08-01,P004,Protective Paper Fill,23
+2026-08-02,P004,Protective Paper Fill,15
+2026-08-03,P004,Protective Paper Fill,40
+2026-08-04,P004,Protective Paper Fill,37
+2026-08-05,P004,Protective Paper Fill,28
+2026-08-06,P004,Protective Paper Fill,32
+2026-08-07,P004,Protective Paper Fill,36
+2026-08-08,P004,Protective Paper Fill,21
+2026-08-09,P004,Protective Paper Fill,20
+2026-08-10,P004,Protective Paper Fill,34
+2026-08-11,P004,Protective Paper Fill,33
+2026-08-12,P004,Protective Paper Fill,35
+2026-08-13,P004,Protective Paper Fill,42
+2026-08-14,P004,Protective Paper Fill,20
+2026-08-15,P004,Protective Paper Fill,20
+2026-08-16,P004,Protective Paper Fill,21
+2026-08-17,P004,Protective Paper Fill,36
+2026-08-18,P004,Protective Paper Fill,32
+2026-08-19,P004,Protective Paper Fill,25
+2026-08-20,P004,Protective Paper Fill,36
+2026-08-21,P004,Protective Paper Fill,44
+2026-08-22,P004,Protective Paper Fill,16
+2026-08-23,P004,Protective Paper Fill,24
+2026-08-24,P004,Protective Paper Fill,32
+2026-08-25,P004,Protective Paper Fill,34
+2026-08-26,P004,Protective Paper Fill,28
+2026-08-27,P004,Protective Paper Fill,32
+2026-08-28,P004,Protective Paper Fill,41
+2026-08-29,P004,Protective Paper Fill,23
+2026-08-30,P004,Protective Paper Fill,27
+2026-08-31,P004,Protective Paper Fill,41
+2026-09-01,P004,Protective Paper Fill,36
+2026-09-02,P004,Protective Paper Fill,44
+2026-09-03,P004,Protective Paper Fill,36
+2026-09-04,P004,Protective Paper Fill,39
+2026-09-05,P004,Protective Paper Fill,20
+2026-09-06,P004,Protective Paper Fill,21
+2026-09-07,P004,Protective Paper Fill,30
+2026-09-08,P004,Protective Paper Fill,39
+2026-09-09,P004,Protective Paper Fill,28
+2026-09-10,P004,Protective Paper Fill,38
+2026-09-11,P004,Protective Paper Fill,33
+2026-09-12,P004,Protective Paper Fill,25
+2026-09-13,P004,Protective Paper Fill,23
+2026-09-14,P004,Protective Paper Fill,44
+2026-09-15,P004,Protective Paper Fill,38
+2026-09-16,P004,Protective Paper Fill,25
+2026-09-17,P004,Protective Paper Fill,34
+2026-09-18,P004,Protective Paper Fill,28
+2026-09-19,P004,Protective Paper Fill,19
+2026-09-20,P004,Protective Paper Fill,26
+2026-09-21,P004,Protective Paper Fill,37
+2026-09-22,P004,Protective Paper Fill,30
+2026-09-23,P004,Protective Paper Fill,28
+2026-09-24,P004,Protective Paper Fill,34
+2026-09-25,P004,Protective Paper Fill,27
+2026-09-26,P004,Protective Paper Fill,18
+2026-09-27,P004,Protective Paper Fill,22
+2026-09-28,P004,Protective Paper Fill,40
+2026-09-29,P004,Protective Paper Fill,37
+2026-09-30,P004,Protective Paper Fill,21
+2026-10-01,P004,Protective Paper Fill,35
+2026-10-02,P004,Protective Paper Fill,34
+2026-10-03,P004,Protective Paper Fill,22
+2026-10-04,P004,Protective Paper Fill,26
+2026-10-05,P004,Protective Paper Fill,23
+2026-10-06,P004,Protective Paper Fill,30
+2026-10-07,P004,Protective Paper Fill,37
+2026-10-08,P004,Protective Paper Fill,25
+2026-10-09,P004,Protective Paper Fill,42
+2026-10-10,P004,Protective Paper Fill,22
+2026-10-11,P004,Protective Paper Fill,23
+2026-10-12,P004,Protective Paper Fill,31
+2026-10-13,P004,Protective Paper Fill,38
+2026-10-14,P004,Protective Paper Fill,39
+2026-10-15,P004,Protective Paper Fill,35
+2026-10-16,P004,Protective Paper Fill,35
+2026-10-17,P004,Protective Paper Fill,21
+2026-10-18,P004,Protective Paper Fill,18
+2026-10-19,P004,Protective Paper Fill,33
+2026-10-20,P004,Protective Paper Fill,33
+2026-10-21,P004,Protective Paper Fill,36
+2026-10-22,P004,Protective Paper Fill,39
+2026-10-23,P004,Protective Paper Fill,28
+2026-07-26,P005,Cotton Tote Bags,15
+2026-07-27,P005,Cotton Tote Bags,17
+2026-07-28,P005,Cotton Tote Bags,17
+2026-07-29,P005,Cotton Tote Bags,20
+2026-07-30,P005,Cotton Tote Bags,22
+2026-07-31,P005,Cotton Tote Bags,20
+2026-08-01,P005,Cotton Tote Bags,15
+2026-08-02,P005,Cotton Tote Bags,14
+2026-08-03,P005,Cotton Tote Bags,22
+2026-08-04,P005,Cotton Tote Bags,21
+2026-08-05,P005,Cotton Tote Bags,27
+2026-08-06,P005,Cotton Tote Bags,19
+2026-08-07,P005,Cotton Tote Bags,13
+2026-08-08,P005,Cotton Tote Bags,15
+2026-08-09,P005,Cotton Tote Bags,11
+2026-08-10,P005,Cotton Tote Bags,20
+2026-08-11,P005,Cotton Tote Bags,24
+2026-08-12,P005,Cotton Tote Bags,15
+2026-08-13,P005,Cotton Tote Bags,16
+2026-08-14,P005,Cotton Tote Bags,15
+2026-08-15,P005,Cotton Tote Bags,10
+2026-08-16,P005,Cotton Tote Bags,13
+2026-08-17,P005,Cotton Tote Bags,21
+2026-08-18,P005,Cotton Tote Bags,20
+2026-08-19,P005,Cotton Tote Bags,15
+2026-08-20,P005,Cotton Tote Bags,12
+2026-08-21,P005,Cotton Tote Bags,20
+2026-08-22,P005,Cotton Tote Bags,11
+2026-08-23,P005,Cotton Tote Bags,13
+2026-08-24,P005,Cotton Tote Bags,22
+2026-08-25,P005,Cotton Tote Bags,20
+2026-08-26,P005,Cotton Tote Bags,22
+2026-08-27,P005,Cotton Tote Bags,20
+2026-08-28,P005,Cotton Tote Bags,21
+2026-08-29,P005,Cotton Tote Bags,10
+2026-08-30,P005,Cotton Tote Bags,12
+2026-08-31,P005,Cotton Tote Bags,20
+2026-09-01,P005,Cotton Tote Bags,22
+2026-09-02,P005,Cotton Tote Bags,18
+2026-09-03,P005,Cotton Tote Bags,21
+2026-09-04,P005,Cotton Tote Bags,19
+2026-09-05,P005,Cotton Tote Bags,12
+2026-09-06,P005,Cotton Tote Bags,14
+2026-09-07,P005,Cotton Tote Bags,13
+2026-09-08,P005,Cotton Tote Bags,16
+2026-09-09,P005,Cotton Tote Bags,15
+2026-09-10,P005,Cotton Tote Bags,12
+2026-09-11,P005,Cotton Tote Bags,17
+2026-09-12,P005,Cotton Tote Bags,13
+2026-09-13,P005,Cotton Tote Bags,11
+2026-09-14,P005,Cotton Tote Bags,20
+2026-09-15,P005,Cotton Tote Bags,23
+2026-09-16,P005,Cotton Tote Bags,24
+2026-09-17,P005,Cotton Tote Bags,19
+2026-09-18,P005,Cotton Tote Bags,24
+2026-09-19,P005,Cotton Tote Bags,12
+2026-09-20,P005,Cotton Tote Bags,10
+2026-09-21,P005,Cotton Tote Bags,18
+2026-09-22,P005,Cotton Tote Bags,15
+2026-09-23,P005,Cotton Tote Bags,17
+2026-09-24,P005,Cotton Tote Bags,18
+2026-09-25,P005,Cotton Tote Bags,22
+2026-09-26,P005,Cotton Tote Bags,15
+2026-09-27,P005,Cotton Tote Bags,9
+2026-09-28,P005,Cotton Tote Bags,21
+2026-09-29,P005,Cotton Tote Bags,16
+2026-09-30,P005,Cotton Tote Bags,21
+2026-10-01,P005,Cotton Tote Bags,19
+2026-10-02,P005,Cotton Tote Bags,14
+2026-10-03,P005,Cotton Tote Bags,14
+2026-10-04,P005,Cotton Tote Bags,11
+2026-10-05,P005,Cotton Tote Bags,18
+2026-10-06,P005,Cotton Tote Bags,16
+2026-10-07,P005,Cotton Tote Bags,18
+2026-10-08,P005,Cotton Tote Bags,21
+2026-10-09,P005,Cotton Tote Bags,19
+2026-10-10,P005,Cotton Tote Bags,13
+2026-10-11,P005,Cotton Tote Bags,13
+2026-10-12,P005,Cotton Tote Bags,24
+2026-10-13,P005,Cotton Tote Bags,19
+2026-10-14,P005,Cotton Tote Bags,15
+2026-10-15,P005,Cotton Tote Bags,23
+2026-10-16,P005,Cotton Tote Bags,19
+2026-10-17,P005,Cotton Tote Bags,14
+2026-10-18,P005,Cotton Tote Bags,13
+2026-10-19,P005,Cotton Tote Bags,19
+2026-10-20,P005,Cotton Tote Bags,21
+2026-10-21,P005,Cotton Tote Bags,26
+2026-10-22,P005,Cotton Tote Bags,26
+2026-10-23,P005,Cotton Tote Bags,20

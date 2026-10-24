@@ -1,0 +1,8 @@
+supplier_id,supplier_name,product_category,unit_cost_factor,lead_time_days,distance_km,single_use_plastic_score,reliability_pct,co2_kg_per_km_unit
+S001,GreenPack Local,Packaging,1.08,3,18,1,96,0.0008
+S002,Metro Supply Co.,Packaging,0.96,5,85,4,92,0.0012
+S003,EcoSource Partners,Packaging,1.03,6,42,1,98,0.0007
+S004,QuickShip Wholesale,Packaging,1.0,2,120,3,89,0.0015
+S005,Local Makers Hub,Finished Goods,1.06,4,15,1,95,0.0006
+S006,Global Goods Ltd.,Finished Goods,0.91,12,900,5,90,0.002
+S007,Balanced Trade,Finished Goods,0.98,7,110,2,97,0.001
